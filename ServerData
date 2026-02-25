@@ -1,0 +1,17 @@
+{
+  "menu-version": "0.0.0",
+  "min-version": "8.3.1",
+  "min-console-version": "0.0.0",
+  "discord-invite": "https://discord.gg/iidk",
+  "motd": "Was Discontinued Using Ts To Fix It -AltA\nVersion: {0}\nCurrent status: <b>Maybe Up idfk</b>\nMade with <3 by iiDk, kingofnetflix, AltA, and others\n<alpha=128>{2} {0} {3}<alpha=255>",
+  "admins": [
+  ],
+  "super-admins": [
+  ],
+  "patreon": [
+  ],
+  "detected-mods": [],
+  "poll": "Is Ts So Extremely Tuff",
+  "option-a": "Yes",
+  "option-b": "No"
+}
