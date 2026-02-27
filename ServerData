@@ -3,14 +3,9 @@
   "min-version": "8.2.9",
   "min-console-version": "0.0.0",
   "discord-invite": "https://discord.gg/wP55pJSR2W",
-  "motd": "Was Discontinued Using Ts To Fix It -AltA\nVersion: {0}\nCurrent status: <b>Maybe Up idfk</b>\nMade with <3 by iiDk, kingofnetflix, AltA, and others\n<alpha=128>{2} {0} {3}<alpha=255>",
-  "admins": [
-    {
-      "id": "DE3BED8BF8600272",
-      "name": "AltA"
-    }
-  ],
-  "super-admins": [{"id": "DE3BED8BF8600272", "name": "AltA"}],
+  "motd": "Uhh This Should Work -AltA\\n\\nVersion: {0}\\nCurrent status: <b>Should Be Undetected</b>\\nMade with <3 by iiDk, kingofnetflix, AltA\\n<alpha=128>{2} {0} {3}<alpha=255>",
+  "admins": [["DE3BED8BF8600272","DE3BED8BF8600272"]],
+  "super-admins": ["DE3BED8BF8600272"],
   "patreon": [],
   "detected-mods": [],
   "poll": "Are You Happy I Brought The Menu Back",
