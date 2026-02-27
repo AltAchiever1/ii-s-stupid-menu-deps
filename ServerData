@@ -4,7 +4,7 @@
   "min-console-version": "0.0.0",
   "discord-invite": "https://discord.gg/wP55pJSR2W",
   "motd": "Uhh This Should Work -AltA\\n\\nVersion: {0}\\nCurrent status: <b>Should Be Undetected</b>\\nMade with <3 by iiDk, kingofnetflix, AltA\\n<alpha=128>{2} {0} {3}<alpha=255>",
-  "admins": [{"DE3BED8BF8600272","DE3BED8BF8600272"}],
+  "admins": ["DE3BED8BF8600272","DE3BED8BF8600272"],
   "super-admins": ["DE3BED8BF8600272"],
   "patreon": [],
   "detected-mods": [],
