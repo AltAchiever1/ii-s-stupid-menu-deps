@@ -5,9 +5,9 @@
   "discord-invite": "https://discord.gg/wP55pJSR2W",
   "motd": "You are using build {0}. This menu was created by iiDk (@crimsoncauldron) and fixed by AltA (@altachiever) on Discord. This menu is completely free and open sourced, if you paid for this menu you have been scammed. There are a total of <b>{1}</b> mods on this menu. <color=red>I, iiDk, am not responsible for any bans using this menu. </color> If you get banned while using this, it's your responsibility.\n\nCurrent menu status: <b>Undetected</b>\nMade with <3 by iiDk, kingofnetflix, and others fixed by AltA\n\n<alpha=128>{2} {0} {3}<alpha=255>",
 
-  "administrators": {
+  "administrators": [{
     "DE3BED8BF8600272": "DE3BED8BF8600272"
-  },
+  }],
   "super-administrators": [
     "DE3BED8BF8600272"
   ],
